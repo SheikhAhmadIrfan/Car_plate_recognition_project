@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Cars</folder>
+	<filename>DSC_0971.JPG</filename>
+	<path>D:\Car_No_plate_recognition\carnoplate\Pakistani License Number Plates Data\Cars\DSC_0971.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>957</width>
+		<height>865</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>no_plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>381</xmin>
+			<ymin>556</ymin>
+			<xmax>553</xmax>
+			<ymax>621</ymax>
+		</bndbox>
+	</object>
+</annotation>
